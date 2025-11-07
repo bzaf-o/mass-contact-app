@@ -1,0 +1,1 @@
+A quick Python app beautified with Flet to contact mass amounts of people through Whatsapp without having to individually save their names. Also allows user to create, edit and delete pre-saved messages to disseminate more easily.
